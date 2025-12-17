@@ -5,6 +5,8 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://vuvannam12082005.github.io)
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/vuvannam1208)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nam-v%C5%A9-v%C4%83n-737b21394/)
 [![Email](https://img.shields.io/badge/Contact_Me-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:Nam.VV235610@sis.hust.edu.vn)
 
 </div>
