@@ -50,7 +50,7 @@ I use bug bounty, source review, and hands-on testing to study how real systems 
 
 | Target | Vulnerability | Notes |
 |--------|---------------|-------|
-| Genspark AI Platform | Wormable Stored XSS via unsanitized AI-generated output | Write-up pending |
+| Genspark AI Platform | Wormable Stored XSS via unsanitized AI-generated output | Reported |
 | Cốc Cốc Browser Extension | DOM-based XSS in Dictionary / Translate extension | Reported |
 
 I actively submit vulnerability reports through responsible disclosure channels, HackerOne, and Huntr.
@@ -65,6 +65,7 @@ I actively submit vulnerability reports through responsible disclosure channels,
 | [AI-Based-Security-Enhancements](https://github.com/vuvannam-sec/AI-Based-Security-Enhancements) | Linux intrusion detection system using machine learning |
 | [vpn-detector-traffic-analysis](https://github.com/vuvannam-sec/vpn-detector-traffic-analysis) | VPN and non-VPN traffic classification using ML models |
 | [OSINT-Tool-ALL-IN-ONE](https://github.com/vuvannam-sec/OSINT-Tool-ALL-IN-ONE) | OSINT tool for Facebook profile and comment collection |
+| [praxis](https://github.com/vuvannam-sec/praxis) | Experimental "Hacker OS" framework for scoped, blackbox-first authorized security testing with multi-agent self-learning loops |
 
 ---
 
